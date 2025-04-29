@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "Kr+lzHfc",
+  "version": "zpzeiMXY",
   "assets": [
     {
       "hash": "sha256-3d5wfrdiodKXqQIdaaW1VJjpCH05psixBxHcYzY5iNs=",
@@ -54,8 +54,8 @@ self.assetsManifest = {
       "url": "Images/permisosviajes.jpg"
     },
     {
-      "hash": "sha256-+NLab7uy/lC86Jc4XlrcxGFVOQqKnKFTaMOUepqCkvg=",
-      "url": "_framework/DoctorPetWebApp.g6ayte9se7.wasm"
+      "hash": "sha256-zo78JAOyJNkOMAu7EZDVhMmaNZ2Gck39rvnhv9YHdgs=",
+      "url": "_framework/DoctorPetWebApp.a51w9uukb1.wasm"
     },
     {
       "hash": "sha256-kY3x+5m6APOZSv30Rx/xNF6cOsVIPpauDPAhnb5Jr/s=",
@@ -190,7 +190,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.gjrc7fe0iy.wasm"
     },
     {
-      "hash": "sha256-7AMQQ0cKmblP6ldkny3rJv4eVTHGDOCWwv4Re3rCeto=",
+      "hash": "sha256-lOHSZdLGzgMB5XbDcAzXifz/Y7PsIrrIbuuADytvkck=",
       "url": "_framework/blazor.boot.json"
     },
     {
