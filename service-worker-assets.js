@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "gLmwkKMk",
+  "version": "C2A5N32o",
   "assets": [
     {
       "hash": "sha256-KtDlUmORoVtXkuCsSVMHfbXJ4w8djW4n6bnmW4qjwC8=",
@@ -62,8 +62,8 @@ self.assetsManifest = {
       "url": "_content/Toolbelt.Blazor.PWA.Updater/Toolbelt.Blazor.PWA.Updater.bnjuj6nd91.bundle.scp.css"
     },
     {
-      "hash": "sha256-wze2rHZ3W9Q6TU6EkSya0E8tGaHxvTA/HgBrdT5D1gk=",
-      "url": "_framework/DoctorPetWebApp.bu0ifda8uu.wasm"
+      "hash": "sha256-FDVxoZClLqbokioD4zxC6P4hUs8idBQQLxntrc4uMVs=",
+      "url": "_framework/DoctorPetWebApp.85nfczz635.wasm"
     },
     {
       "hash": "sha256-OgGeBYimSBEuOUdq3POIEdC3NdVUCkk/K6ELdHHVBfs=",
@@ -206,7 +206,7 @@ self.assetsManifest = {
       "url": "_framework/Toolbelt.Blazor.PWA.Updater.zh5jq5plq0.wasm"
     },
     {
-      "hash": "sha256-h6SXASjP9+2H+ooWo5Z56RBqqMO9LYumV6jr+h5EH0Y=",
+      "hash": "sha256-iBLJ+ofso6xLAsxPmVmLNHZX9Whqna64N1EtI8WRQLQ=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -262,7 +262,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-9BWfSnlwhKHny8iqy2Li34i6/0IRShBs9kEFvxtl+rA=",
+      "hash": "sha256-T1L+IVRaMA3wXIeU21gCcUY9eLM/uz23w6ZwP2Fi95c=",
       "url": "index.html"
     },
     {
