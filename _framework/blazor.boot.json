@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "DoctorPetWebApp",
   "resources": {
-    "hash": "sha256-L/s+RiYrBpHi5RNrjKfFcqPZy4UNt9VDm72dtlBZ16U=",
+    "hash": "sha256-uutvJOSGz6oL6qHdSJJMBpjRvsV02/f2TZy1eqP0zfU=",
     "fingerprinting": {
-      "DoctorPetWebApp.e8t78rpln2.wasm": "DoctorPetWebApp.wasm",
+      "DoctorPetWebApp.rtyx29vyez.wasm": "DoctorPetWebApp.wasm",
       "Microsoft.AspNetCore.Components.vvrum2h34f.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.2yj94ckvak.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.d13yrm8kw4.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
@@ -66,7 +66,7 @@
       "System.Runtime.InteropServices.JavaScript.era55l3sbb.wasm": "sha256-uo4WQ39eiOB+w/weMzCVCfXQey09VlzpTm+e6aR83IA="
     },
     "assembly": {
-      "DoctorPetWebApp.e8t78rpln2.wasm": "sha256-vrO03CIlKlIHHvU7gydmOCu/nbCnJPwEcUQ/RVlYS2Q=",
+      "DoctorPetWebApp.rtyx29vyez.wasm": "sha256-j6RsTmhA7yd7EoyTuij6CwWtUQh1gTHQM0l+GTnfvzI=",
       "Microsoft.AspNetCore.Components.vvrum2h34f.wasm": "sha256-q9apSZRjfvhkfpOOSK5byrUOQj7tDw/UVmzsgSqlhYQ=",
       "Microsoft.AspNetCore.Components.Web.2yj94ckvak.wasm": "sha256-OgGeBYimSBEuOUdq3POIEdC3NdVUCkk/K6ELdHHVBfs=",
       "Microsoft.AspNetCore.Components.WebAssembly.d13yrm8kw4.wasm": "sha256-Hymk0fViavnVW/gMYu9JN650NQTS5P8zPntoNQH10Xw=",
